@@ -1,17 +1,17 @@
-# Olá!
+### Olá! 😁
 
-Meu nome é Samuel 😁
+Meu nome é Samuel 
 Sou estudante de Engenharia de Software.
 
 ---
 
-## Atualmente
+### Atualmente
 
 - Estou focado em fortalecer minha base em programação e desenvolvimento.
 
 ---
 
-## Tecnologias que estudo e utilizo
+### Tecnologias que estudo e utilizo
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
@@ -22,7 +22,7 @@ Sou estudante de Engenharia de Software.
 
 ---
 
-## GitHub Stats
+### GitHub Stats
 
 ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME\&show_icons=true\&theme=default)
 
