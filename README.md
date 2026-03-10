@@ -24,8 +24,8 @@ Meu nome é Samuel <br />
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=samMrqss&show_icons=true)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samMrqss&show_icons=true&theme=github_dark)
 
 ---
-  
+
 
