@@ -11,7 +11,7 @@ Meu nome é Samuel <br />
 
 ---
 
-### Tecnologias que estudo e utilizo
+### Tecnologias que estudo/utilizo atualmente
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
