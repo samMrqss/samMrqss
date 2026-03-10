@@ -1,6 +1,7 @@
 ## Olá 😁
 
 
+<hr style="height:4px;border:none;background-color:black;">
 
 Here are some ideas to get you started:
 
