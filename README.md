@@ -1,13 +1,13 @@
 ### Olá! 😁
 
 Meu nome é Samuel <br />
-Sou estudante de Engenharia de Software.
 
 ---
 
 ### Atualmente
 
-- Estou focado em fortalecer minha base em programação e desenvolvimento.
+- Estudando Engenharia de Software na FIAP
+- Focado em fortalecer minha base em programação e desenvolvimento.
 
 ---
 
