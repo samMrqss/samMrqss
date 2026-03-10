@@ -1,6 +1,6 @@
 ### Olá! 😁
 
-Meu nome é Samuel 
+Meu nome é Samuel <br />
 Sou estudante de Engenharia de Software.
 
 ---
@@ -24,7 +24,7 @@ Sou estudante de Engenharia de Software.
 
 ### GitHub Stats
 
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME\&show_icons=true\&theme=default)
+![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=samMrqss\&show_icons=true\&theme=default)
 
 ---
   
