@@ -6,7 +6,7 @@ Meu nome é Samuel <br />
 
 ### Atualmente
 
-- Estudando Engenharia de Software na FIAP
+- Estudando Engenharia de Software na FIAP.
 - Focado em fortalecer minha base em programação e desenvolvimento.
 
 ---
