@@ -1,7 +1,5 @@
 ### Olá! 😁
 
-Meu nome é Samuel <br />
-
 ---
 
 ### Atualmente
